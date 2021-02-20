@@ -1,0 +1,14 @@
+body{
+    background-color:lightcyan;
+}
+
+table{
+    background-color: tomato;
+   
+    border: 4px solid green;
+    
+}
+td{
+   border: 4px solid darkviolet;
+   text-align: center;
+}
